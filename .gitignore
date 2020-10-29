@@ -1,0 +1,4 @@
+node_modules
+test
+test.html
+# 设置哪些文件不被管理
